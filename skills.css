@@ -1,0 +1,46 @@
+.skills{
+ 
+ width: 100%;
+    
+   
+}
+.skills__title{
+   
+    
+    text-align: center;
+   
+
+}
+.skills__line{
+
+    display: flex;
+
+}
+.skills__box{
+   
+    display:inherit;
+    width: 100%;
+    border-style: groove ;
+    height: 90px;
+    margin-left: 1rem;
+    
+    
+    
+}
+.skills__img{
+    
+    display:inherit;
+    margin-bottom: inherit;
+    float: left;
+    margin-left: 10px;
+    
+
+
+}
+.skills__name{
+
+    font-size: 15px;
+    text-align: left;
+    margin: .5rem;
+
+}

@@ -1,0 +1,25 @@
+.about{
+    display: flex;
+    background: rgb(189, 189, 245);
+
+}
+.about__container{
+    display: block;
+
+}
+.about__title{
+    color: #464646;
+    font-size: 32px;
+    margin: 2rem;
+
+
+}
+.about__paragraph{
+    
+    display: flex;
+    margin: 2rem;
+
+}
+.img-firma{
+    margin: 0 2rem;
+}

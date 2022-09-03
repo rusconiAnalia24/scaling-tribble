@@ -1,0 +1,45 @@
+.title{
+    display: flex;
+    
+    
+}
+
+.title__div{
+
+}
+
+.title__profile{
+    max-width: 10rem;
+    float: right;
+    padding: 0 2rem;
+
+}
+
+.title__container{
+    font-family: var(Raleway);
+
+}
+.title__bio{
+    font-size:  20px;
+    margin-left: 1.75rem;
+
+}
+
+.title__subsection{
+    font-size: 15px;
+    margin-left: 2rem;
+
+}
+
+.title__network{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.title__network__item{
+    display: flex;
+    justify-items: center;
+    
+
+}
